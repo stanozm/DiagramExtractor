@@ -29,3 +29,6 @@ where DIAGRAM_OPTIONS is one or more Numbers according to the list:
 9 - Package Diagram
 
 
+The output pdf file is created in the DiagramExtractor.jar file directory.
+
+This utility also requires the included Apache pdfbox library.
