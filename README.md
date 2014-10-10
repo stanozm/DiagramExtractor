@@ -8,7 +8,7 @@ Usage
 
 java -jar DiagramExtractor.jar path_to_dir_with_reports DIAGRAM_OPTIONS
 
-where DIAGRAM_OPTIONS is one or more Numbers according to the list:
+where DIAGRAM_OPTIONS is one or more Numbers (separated by space) according to the list:
 
 1 - Use Case Diagram
 
