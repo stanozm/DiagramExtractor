@@ -85,7 +85,7 @@ public class DiagramExtractor {
 
             System.out.println("NUMBER OF PAGES: " + doc.getNumberOfPages());
 
-            for (int i = 0; i < doc.getNumberOfPages(); i++) {
+            for (int i = 0; i <= doc.getNumberOfPages(); i++) {
                 PDFTextStripper stripper = new PDFTextStripper();
                 stripper.setStartPage(i);
                 stripper.setEndPage(i);
