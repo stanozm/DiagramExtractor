@@ -31,6 +31,6 @@ where DIAGRAM_OPTIONS is one or more Numbers (separated by space) according to t
 
 The output pdf file is created in the DiagramExtractor.jar file directory.
 
-This utility also requires the included Apache pdfbox library. The whole bundel can be downloaded from https://drive.google.com/file/d/0B4kAt0BgOp7aTF8zYWIyN2tJemM/view?usp=sharing
+This utility also requires the included Apache pdfbox library. The whole bundle can be downloaded from https://drive.google.com/file/d/0B4kAt0BgOp7aTF8zYWIyN2tJemM/view?usp=sharing
 
 The input diretory with reports should contain only the pdf report files and nothing else.
